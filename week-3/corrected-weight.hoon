@@ -1,6 +1,6 @@
   |=  x=@ud
   =<
-  (mul x 4)
+  (corrected-weight x)
   |%
   ++  corrected-weight
     |=  x=@ud
