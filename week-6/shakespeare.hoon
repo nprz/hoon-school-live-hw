@@ -1,0 +1,1 @@
+  =shakespeare `(map @tas @t)`(my ~[[%macbeth 'Duncan'] [%the-tempest 'Prospero'] [%hamlet 'Hamlet'] [%king-lear 'Edmund']])
